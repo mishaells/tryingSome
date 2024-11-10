@@ -1,4 +1,5 @@
-package meshGitTry;
+//package meshGitTry;
+package meshPackTest;
 
 public class simpleClass {
 	
